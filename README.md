@@ -7,10 +7,10 @@ stays in your (relatively) long term memory, reducing the need to cram for
 exams.
 
 ### Usage
+Edit classes.json (see section below) and then run the following:
 ```
 python planner.py [savefile]
 ```
-
 This script requires 2 files to exist in the same directory as `planner.py`:
 `calendar.json` and `classes.json`. The `savefile` parameter is optional (see
  Output section).
