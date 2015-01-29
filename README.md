@@ -7,7 +7,7 @@ stays in your (relatively) long term memory, reducing the need to cram for
 exams.
 
 ### Usage
-Edit classes.json and calendar.json(see section below) and then run the
+Edit classes.json and calendar.json (see sections below) and then run the
 following:
 ```
 python planner.py [savefile]
