@@ -1,9 +1,10 @@
 # StudyPlanner
 This program is used to help you study better! Given a class schedule and your
 school's academic calendar, this creates a schedule for when to review your
-notes. Specifically, study a lecture a day, a week, and a month (4 weeks) after
-you first listened to a lecture. This ensures that the material stays in your
-(relatively) long term memory, reducing the need to cram for exams.
+lecture notes. Specifically, study a lecture a day, a week, and a month
+(4 weeks) after you first listened to a lecture. This ensures that the material
+stays in your (relatively) long term memory, reducing the need to cram for
+exams.
 
 ### Usage
 ```
@@ -11,11 +12,8 @@ python planner.py [savefile]
 ```
 
 This script requires 2 files to exist in the same directory as `planner.py`:
-`calendar.json` and `classes.json`.
-
-### Output
-This save the output to `study_schedule.txt` or the `savefile` if provided.
-If the file already exists, this script fails. 
+`calendar.json` and `classes.json`. The `savefile` parameter is optional (see
+ Output section).
 
 ###calendar.json
 `calendar.json` represents the school's academic calendar. Namely, the start
@@ -42,7 +40,7 @@ date, the end date, and vacation days. Here is an example:
 }
 ```
 
-###classes.json
+### classes.json
 `classes.json` represents your class schedule. It's a dictionary from a class
 name to the day of the week that you have that class. Here is an example:
 
@@ -55,3 +53,23 @@ name to the day of the week that you have that class. Here is an example:
   "ECE 4250": ["T", "R"]
 }
 ```
+
+### Output
+The output is saved to `study_schedule.txt` or the `savefile` if provided.
+If the file already exists, this script fails. Here is a sample output:
+```
+02/11
+  CS 4752 Lec 7, 02/04 (Week)
+  ECE 3400 Lec 7, 02/04 (Week)
+  ECE 4730 Lec 5, 02/04 (Week)
+  CS 4670 Lec 7, 02/04 (Week)
+  ECE 4250 Lec 6, 02/10 (Day)
+02/12
+  ECE 4250 Lec 5, 02/05 (Week)
+  CS 4752 Lec 10, 02/11 (Day)
+  ECE 3400 Lec 10, 02/11 (Day)
+  ...
+```
+The recommended use of this output is to treat it like a TODO list. Delete
+each row after you finish reviewing your lecture notes from that day.
+Of course, feel free to do whatever you want with this.
