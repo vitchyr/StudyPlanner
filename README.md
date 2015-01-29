@@ -5,7 +5,7 @@ notes. Specifically, study a lecture a day, a week, and a month (4 weeks) after
 you first listened to a lecture. This ensures that the material stays in your
 (relatively) long term memory, reducing the need to cram for exams.
 
-# Usage
+### Usage
 ```
 python planner.py [savefile]
 ```
@@ -13,7 +13,7 @@ python planner.py [savefile]
 This script requires 2 files to exist in the same directory as `planner.py`:
 `calendar.json` and `classes.json`.
 
-## Output
+### Output
 This save the output to `study_schedule.txt` or the `savefile` if provided.
 If the file already exists, this script fails. 
 
