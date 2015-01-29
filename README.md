@@ -7,17 +7,35 @@ stays in your (relatively) long term memory, reducing the need to cram for
 exams.
 
 ### Usage
-Edit classes.json (see section below) and then run the following:
+Edit classes.json and calendar.json(see section below) and then run the
+following:
 ```
 python planner.py [savefile]
 ```
 This script requires 2 files to exist in the same directory as `planner.py`:
-`calendar.json` and `classes.json`. The `savefile` parameter is optional (see
+`classes.json` and `calendar.json`. The `savefile` parameter is optional (see
  Output section).
+
+### classes.json
+`classes.json` represents your class schedule. It's a dictionary from a class
+name to the day of the week that you have that class. Here is an example:
+
+```
+{
+  "ECE 4730": ["M", "W"],
+  "ECE 3400": ["M", "W", "F"],
+  "CS 4670": ["M", "W", "F"],
+  "CS 4752": ["M", "W", "F"],
+  "ECE 4250": ["T", "R"]
+}
+```
+
+Days of the week are: M = Monday, T, W, R, F, S, U.
 
 ###calendar.json
 `calendar.json` represents the school's academic calendar. Namely, the start
-date, the end date, and vacation days. Here is an example:
+date, the end date, and vacation days. The provided calendar.json is the
+Cornell Spring 2015 calendar. Here it is with some comments:
 ```
 {
   "start": "1/21/2015",       <- first day of class
@@ -36,20 +54,6 @@ date, the end date, and vacation days. Here is an example:
       "end": "4/27/2015"         that only one day was off
     }
   ]
-}
-```
-
-### classes.json
-`classes.json` represents your class schedule. It's a dictionary from a class
-name to the day of the week that you have that class. Here is an example:
-
-```
-{
-  "ECE 4730": ["M", "W"],
-  "ECE 3400": ["M", "W", "F"],
-  "CS 4670": ["M", "W", "F"],
-  "CS 4752": ["M", "W", "F"],
-  "ECE 4250": ["T", "R"]
 }
 ```
 

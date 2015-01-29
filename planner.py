@@ -22,6 +22,8 @@ def iso_day(d):
      'W': 3,
      'R': 4,
      'F': 5,
+     'S': 6,
+     'U': 7,
    }[d]
 
 def create_schedule(cal_fname, classes_fname, save_fname):
