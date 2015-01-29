@@ -38,8 +38,8 @@ def create_schedule(cal_fname, classes_fname, save_fname):
   vacation_dates = []
   for v in vacations:
     start, end = v
-    assert((end - start).days > 0, \
-      "Invalid vacation date ranges: {0} - {1}".format(start, end))
+    assert (end - start).days >= 0, \
+      "Invalid vacation date ranges: {0} - {1}".format(start, end)
     date = start
     vacation_dates.append(date)
     while (date != end):
