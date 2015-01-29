@@ -24,10 +24,6 @@ date, the end date, and vacation days. Here is an example:
   "end": "5/6/2015",          <- last day of class
   "vacations": [
     {
-      "start": "1/19/2015",   <- have the same start and end dates to indicate
-      "end": "1/19/2015"         that only one day was off
-    },
-    {
       "start": "2/14/2015",
       "end": "2/17/2015"      <- this should be the last day you're on vacation
     },
@@ -35,7 +31,10 @@ date, the end date, and vacation days. Here is an example:
       "start": "3/28/2015",
       "end": "4/5/2015"
     },
-    ...
+    {
+      "start": "4/27/2015",   <- have the same start and end dates to indicate
+      "end": "4/27/2015"         that only one day was off
+    }
   ]
 }
 ```
