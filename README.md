@@ -1,7 +1,7 @@
 # StudyPlanner
-This program is used to help you study better! Given a class schedule and your
-school's academic calendar, this creates a schedule for when to review your
-lecture notes. Specifically, study a lecture a day, a week, and a month
+This program is used to help you study better. Given a class schedule and your
+school's academic calendar, this script creates a schedule for when to review
+your lecture notes. Specifically, study a lecture a day, a week, and a month
 (4 weeks) after you first listened to a lecture. This ensures that the material
 stays in your (relatively) long term memory, reducing the need to cram for
 exams.
