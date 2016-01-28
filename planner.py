@@ -49,7 +49,7 @@ def create_schedule(cal_fname, classes_fname, save_fname):
       vacation_dates.append(date)
 
   fdoc = date_of(cal["start"]) # first day of class
-  ldoc = date_of(cal["end"]) # first day of class
+  ldoc = date_of(cal["end"]) # last day of class
   n_days = (ldoc - fdoc).days
 
   lectures = [[] for i in range(n_days)]
@@ -76,7 +76,7 @@ def create_schedule(cal_fname, classes_fname, save_fname):
     study_schedule[i + 1] += [l + " (Day)" for l in ls]
     study_schedule[i + 7] += [l + " (Week)" for l in ls]
     study_schedule[i + 28] += [l + " (Month)" for l in ls]
-  
+
   # Save the schedule
   with open(save_fname, 'w') as outfile:
     to_save = [{} for i in range(len(study_schedule))]
