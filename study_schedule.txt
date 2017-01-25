@@ -1,206 +1,350 @@
-08/26
-  CS281A Lec 1, 08/25 (Day)
-  EE229A Lec 1, 08/25 (Day)
-08/31
-  CS281A Lec 2, 08/30 (Day)
-  EE229A Lec 2, 08/30 (Day)
-09/01
-  CS281A Lec 1, 08/25 (Week)
-  EE229A Lec 1, 08/25 (Week)
-09/02
-  CS281A Lec 3, 09/01 (Day)
-  EE229A Lec 3, 09/01 (Day)
-09/06
-  CS281A Lec 2, 08/30 (Week)
-  EE229A Lec 2, 08/30 (Week)
-09/07
-  CS281A Lec 4, 09/06 (Day)
-  EE229A Lec 4, 09/06 (Day)
-09/08
-  CS281A Lec 3, 09/01 (Week)
-  EE229A Lec 3, 09/01 (Week)
-09/09
-  CS281A Lec 5, 09/08 (Day)
-  EE229A Lec 5, 09/08 (Day)
-09/13
-  CS281A Lec 4, 09/06 (Week)
-  EE229A Lec 4, 09/06 (Week)
-09/14
-  CS281A Lec 6, 09/13 (Day)
-  EE229A Lec 6, 09/13 (Day)
-09/15
-  CS281A Lec 5, 09/08 (Week)
-  EE229A Lec 5, 09/08 (Week)
-09/16
-  CS281A Lec 7, 09/15 (Day)
-  EE229A Lec 7, 09/15 (Day)
-09/20
-  CS281A Lec 6, 09/13 (Week)
-  EE229A Lec 6, 09/13 (Week)
-09/21
-  CS281A Lec 8, 09/20 (Day)
-  EE229A Lec 8, 09/20 (Day)
-09/22
-  CS281A Lec 1, 08/25 (Month)
-  EE229A Lec 1, 08/25 (Month)
-  CS281A Lec 7, 09/15 (Week)
-  EE229A Lec 7, 09/15 (Week)
-09/23
-  CS281A Lec 9, 09/22 (Day)
-  EE229A Lec 9, 09/22 (Day)
-09/27
-  CS281A Lec 2, 08/30 (Month)
-  EE229A Lec 2, 08/30 (Month)
-  CS281A Lec 8, 09/20 (Week)
-  EE229A Lec 8, 09/20 (Week)
-09/28
-  CS281A Lec 10, 09/27 (Day)
-  EE229A Lec 10, 09/27 (Day)
-09/29
-  CS281A Lec 3, 09/01 (Month)
-  EE229A Lec 3, 09/01 (Month)
-  CS281A Lec 9, 09/22 (Week)
-  EE229A Lec 9, 09/22 (Week)
-09/30
-  CS281A Lec 11, 09/29 (Day)
-  EE229A Lec 11, 09/29 (Day)
-10/04
-  CS281A Lec 4, 09/06 (Month)
-  EE229A Lec 4, 09/06 (Month)
-  CS281A Lec 10, 09/27 (Week)
-  EE229A Lec 10, 09/27 (Week)
-10/05
-  CS281A Lec 12, 10/04 (Day)
-  EE229A Lec 12, 10/04 (Day)
-10/06
-  CS281A Lec 5, 09/08 (Month)
-  EE229A Lec 5, 09/08 (Month)
-  CS281A Lec 11, 09/29 (Week)
-  EE229A Lec 11, 09/29 (Week)
-10/07
-  CS281A Lec 13, 10/06 (Day)
-  EE229A Lec 13, 10/06 (Day)
-10/11
-  CS281A Lec 6, 09/13 (Month)
-  EE229A Lec 6, 09/13 (Month)
-  CS281A Lec 12, 10/04 (Week)
-  EE229A Lec 12, 10/04 (Week)
-10/12
-  CS281A Lec 14, 10/11 (Day)
-  EE229A Lec 14, 10/11 (Day)
-10/13
-  CS281A Lec 7, 09/15 (Month)
-  EE229A Lec 7, 09/15 (Month)
-  CS281A Lec 13, 10/06 (Week)
-  EE229A Lec 13, 10/06 (Week)
-10/14
-  CS281A Lec 15, 10/13 (Day)
-  EE229A Lec 15, 10/13 (Day)
-10/18
-  CS281A Lec 8, 09/20 (Month)
-  EE229A Lec 8, 09/20 (Month)
-  CS281A Lec 14, 10/11 (Week)
-  EE229A Lec 14, 10/11 (Week)
-10/19
-  CS281A Lec 16, 10/18 (Day)
-  EE229A Lec 16, 10/18 (Day)
-10/20
-  CS281A Lec 9, 09/22 (Month)
-  EE229A Lec 9, 09/22 (Month)
-  CS281A Lec 15, 10/13 (Week)
-  EE229A Lec 15, 10/13 (Week)
-10/21
-  CS281A Lec 17, 10/20 (Day)
-  EE229A Lec 17, 10/20 (Day)
-10/25
-  CS281A Lec 10, 09/27 (Month)
-  EE229A Lec 10, 09/27 (Month)
-  CS281A Lec 16, 10/18 (Week)
-  EE229A Lec 16, 10/18 (Week)
-10/26
-  CS281A Lec 18, 10/25 (Day)
-  EE229A Lec 18, 10/25 (Day)
-10/27
-  CS281A Lec 11, 09/29 (Month)
-  EE229A Lec 11, 09/29 (Month)
-  CS281A Lec 17, 10/20 (Week)
-  EE229A Lec 17, 10/20 (Week)
-10/28
-  CS281A Lec 19, 10/27 (Day)
-  EE229A Lec 19, 10/27 (Day)
-11/01
-  CS281A Lec 12, 10/04 (Month)
-  EE229A Lec 12, 10/04 (Month)
-  CS281A Lec 18, 10/25 (Week)
-  EE229A Lec 18, 10/25 (Week)
-11/02
-  CS281A Lec 20, 11/01 (Day)
-  EE229A Lec 20, 11/01 (Day)
-11/03
-  CS281A Lec 13, 10/06 (Month)
-  EE229A Lec 13, 10/06 (Month)
-  CS281A Lec 19, 10/27 (Week)
-  EE229A Lec 19, 10/27 (Week)
-11/04
-  CS281A Lec 21, 11/03 (Day)
-  EE229A Lec 21, 11/03 (Day)
-11/08
-  CS281A Lec 14, 10/11 (Month)
-  EE229A Lec 14, 10/11 (Month)
-  CS281A Lec 20, 11/01 (Week)
-  EE229A Lec 20, 11/01 (Week)
-11/09
-  CS281A Lec 22, 11/08 (Day)
-  EE229A Lec 22, 11/08 (Day)
-11/10
-  CS281A Lec 15, 10/13 (Month)
-  EE229A Lec 15, 10/13 (Month)
-  CS281A Lec 21, 11/03 (Week)
-  EE229A Lec 21, 11/03 (Week)
-11/11
-  CS281A Lec 23, 11/10 (Day)
-  EE229A Lec 23, 11/10 (Day)
-11/15
-  CS281A Lec 16, 10/18 (Month)
-  EE229A Lec 16, 10/18 (Month)
-  CS281A Lec 22, 11/08 (Week)
-  EE229A Lec 22, 11/08 (Week)
-11/17
-  CS281A Lec 17, 10/20 (Month)
-  EE229A Lec 17, 10/20 (Month)
-  CS281A Lec 23, 11/10 (Week)
-  EE229A Lec 23, 11/10 (Week)
-11/22
-  CS281A Lec 18, 10/25 (Month)
-  EE229A Lec 18, 10/25 (Month)
-11/24
-  CS281A Lec 19, 10/27 (Month)
-  EE229A Lec 19, 10/27 (Month)
-11/29
-  CS281A Lec 20, 11/01 (Month)
-  EE229A Lec 20, 11/01 (Month)
-11/30
-  CS281A Lec 24, 11/29 (Day)
-  EE229A Lec 24, 11/29 (Day)
-12/01
-  CS281A Lec 21, 11/03 (Month)
-  EE229A Lec 21, 11/03 (Month)
-12/02
-  CS281A Lec 25, 12/01 (Day)
-  EE229A Lec 25, 12/01 (Day)
-12/06
-  CS281A Lec 22, 11/08 (Month)
-  EE229A Lec 22, 11/08 (Month)
-  CS281A Lec 24, 11/29 (Week)
-  EE229A Lec 24, 11/29 (Week)
-12/08
-  CS281A Lec 23, 11/10 (Month)
-  EE229A Lec 23, 11/10 (Month)
-  CS281A Lec 25, 12/01 (Week)
-  EE229A Lec 25, 12/01 (Week)
-12/27
-  CS281A Lec 24, 11/29 (Month)
-  EE229A Lec 24, 11/29 (Month)
-12/29
-  CS281A Lec 25, 12/01 (Month)
-  EE229A Lec 25, 12/01 (Month)
+01/18
+  EE227C Lec 1, 01/17 (Day)
+01/19
+  CS188A Lec 1, 01/18 (Day)
+  CS294 Lec 1, 01/18 (Day)
+01/20
+  EE227C Lec 2, 01/19 (Day)
+01/24
+  EE227C Lec 1, 01/17 (Week)
+  CS188A Lec 2, 01/23 (Day)
+  CS294 Lec 2, 01/23 (Day)
+01/25
+  CS188A Lec 1, 01/18 (Week)
+  CS294 Lec 1, 01/18 (Week)
+  EE227C Lec 3, 01/24 (Day)
+01/26
+  EE227C Lec 2, 01/19 (Week)
+  CS188A Lec 3, 01/25 (Day)
+  CS294 Lec 3, 01/25 (Day)
+01/27
+  EE227C Lec 4, 01/26 (Day)
+01/30
+  CS188A Lec 2, 01/23 (Week)
+  CS294 Lec 2, 01/23 (Week)
+01/31
+  EE227C Lec 3, 01/24 (Week)
+  CS188A Lec 4, 01/30 (Day)
+  CS294 Lec 4, 01/30 (Day)
+02/01
+  CS188A Lec 3, 01/25 (Week)
+  CS294 Lec 3, 01/25 (Week)
+  EE227C Lec 5, 01/31 (Day)
+02/02
+  EE227C Lec 4, 01/26 (Week)
+  CS188A Lec 5, 02/01 (Day)
+  CS294 Lec 5, 02/01 (Day)
+02/03
+  EE227C Lec 6, 02/02 (Day)
+02/06
+  CS188A Lec 4, 01/30 (Week)
+  CS294 Lec 4, 01/30 (Week)
+02/07
+  EE227C Lec 5, 01/31 (Week)
+  CS188A Lec 6, 02/06 (Day)
+  CS294 Lec 6, 02/06 (Day)
+02/08
+  CS188A Lec 5, 02/01 (Week)
+  CS294 Lec 5, 02/01 (Week)
+  EE227C Lec 7, 02/07 (Day)
+02/09
+  EE227C Lec 6, 02/02 (Week)
+  CS188A Lec 7, 02/08 (Day)
+  CS294 Lec 7, 02/08 (Day)
+02/10
+  EE227C Lec 8, 02/09 (Day)
+02/13
+  CS188A Lec 6, 02/06 (Week)
+  CS294 Lec 6, 02/06 (Week)
+02/14
+  EE227C Lec 1, 01/17 (Month)
+  EE227C Lec 7, 02/07 (Week)
+  CS188A Lec 8, 02/13 (Day)
+  CS294 Lec 8, 02/13 (Day)
+02/15
+  CS188A Lec 1, 01/18 (Month)
+  CS294 Lec 1, 01/18 (Month)
+  CS188A Lec 7, 02/08 (Week)
+  CS294 Lec 7, 02/08 (Week)
+  EE227C Lec 9, 02/14 (Day)
+02/16
+  EE227C Lec 2, 01/19 (Month)
+  EE227C Lec 8, 02/09 (Week)
+  CS188A Lec 9, 02/15 (Day)
+  CS294 Lec 9, 02/15 (Day)
+02/17
+  EE227C Lec 10, 02/16 (Day)
+02/20
+  CS188A Lec 2, 01/23 (Month)
+  CS294 Lec 2, 01/23 (Month)
+  CS188A Lec 8, 02/13 (Week)
+  CS294 Lec 8, 02/13 (Week)
+02/21
+  EE227C Lec 3, 01/24 (Month)
+  EE227C Lec 9, 02/14 (Week)
+02/22
+  CS188A Lec 3, 01/25 (Month)
+  CS294 Lec 3, 01/25 (Month)
+  CS188A Lec 9, 02/15 (Week)
+  CS294 Lec 9, 02/15 (Week)
+  EE227C Lec 11, 02/21 (Day)
+02/23
+  EE227C Lec 4, 01/26 (Month)
+  EE227C Lec 10, 02/16 (Week)
+  CS188A Lec 10, 02/22 (Day)
+  CS294 Lec 10, 02/22 (Day)
+02/24
+  EE227C Lec 12, 02/23 (Day)
+02/27
+  CS188A Lec 4, 01/30 (Month)
+  CS294 Lec 4, 01/30 (Month)
+02/28
+  EE227C Lec 5, 01/31 (Month)
+  EE227C Lec 11, 02/21 (Week)
+  CS188A Lec 11, 02/27 (Day)
+  CS294 Lec 11, 02/27 (Day)
+03/01
+  CS188A Lec 5, 02/01 (Month)
+  CS294 Lec 5, 02/01 (Month)
+  CS188A Lec 10, 02/22 (Week)
+  CS294 Lec 10, 02/22 (Week)
+  EE227C Lec 13, 02/28 (Day)
+03/02
+  EE227C Lec 6, 02/02 (Month)
+  EE227C Lec 12, 02/23 (Week)
+  CS188A Lec 12, 03/01 (Day)
+  CS294 Lec 12, 03/01 (Day)
+03/03
+  EE227C Lec 14, 03/02 (Day)
+03/06
+  CS188A Lec 6, 02/06 (Month)
+  CS294 Lec 6, 02/06 (Month)
+  CS188A Lec 11, 02/27 (Week)
+  CS294 Lec 11, 02/27 (Week)
+03/07
+  EE227C Lec 7, 02/07 (Month)
+  EE227C Lec 13, 02/28 (Week)
+  CS188A Lec 13, 03/06 (Day)
+  CS294 Lec 13, 03/06 (Day)
+03/08
+  CS188A Lec 7, 02/08 (Month)
+  CS294 Lec 7, 02/08 (Month)
+  CS188A Lec 12, 03/01 (Week)
+  CS294 Lec 12, 03/01 (Week)
+  EE227C Lec 15, 03/07 (Day)
+03/09
+  EE227C Lec 8, 02/09 (Month)
+  EE227C Lec 14, 03/02 (Week)
+  CS188A Lec 14, 03/08 (Day)
+  CS294 Lec 14, 03/08 (Day)
+03/10
+  EE227C Lec 16, 03/09 (Day)
+03/13
+  CS188A Lec 8, 02/13 (Month)
+  CS294 Lec 8, 02/13 (Month)
+  CS188A Lec 13, 03/06 (Week)
+  CS294 Lec 13, 03/06 (Week)
+03/14
+  EE227C Lec 9, 02/14 (Month)
+  EE227C Lec 15, 03/07 (Week)
+  CS188A Lec 15, 03/13 (Day)
+  CS294 Lec 15, 03/13 (Day)
+03/15
+  CS188A Lec 9, 02/15 (Month)
+  CS294 Lec 9, 02/15 (Month)
+  CS188A Lec 14, 03/08 (Week)
+  CS294 Lec 14, 03/08 (Week)
+  EE227C Lec 17, 03/14 (Day)
+03/16
+  EE227C Lec 10, 02/16 (Month)
+  EE227C Lec 16, 03/09 (Week)
+  CS188A Lec 16, 03/15 (Day)
+  CS294 Lec 16, 03/15 (Day)
+03/17
+  EE227C Lec 18, 03/16 (Day)
+03/20
+  CS188A Lec 15, 03/13 (Week)
+  CS294 Lec 15, 03/13 (Week)
+03/21
+  EE227C Lec 11, 02/21 (Month)
+  EE227C Lec 17, 03/14 (Week)
+  CS188A Lec 17, 03/20 (Day)
+  CS294 Lec 17, 03/20 (Day)
+03/22
+  CS188A Lec 10, 02/22 (Month)
+  CS294 Lec 10, 02/22 (Month)
+  CS188A Lec 16, 03/15 (Week)
+  CS294 Lec 16, 03/15 (Week)
+  EE227C Lec 19, 03/21 (Day)
+03/23
+  EE227C Lec 12, 02/23 (Month)
+  EE227C Lec 18, 03/16 (Week)
+  CS188A Lec 18, 03/22 (Day)
+  CS294 Lec 18, 03/22 (Day)
+03/24
+  EE227C Lec 20, 03/23 (Day)
+03/27
+  CS188A Lec 11, 02/27 (Month)
+  CS294 Lec 11, 02/27 (Month)
+  CS188A Lec 17, 03/20 (Week)
+  CS294 Lec 17, 03/20 (Week)
+03/28
+  EE227C Lec 13, 02/28 (Month)
+  EE227C Lec 19, 03/21 (Week)
+03/29
+  CS188A Lec 12, 03/01 (Month)
+  CS294 Lec 12, 03/01 (Month)
+  CS188A Lec 18, 03/22 (Week)
+  CS294 Lec 18, 03/22 (Week)
+03/30
+  EE227C Lec 14, 03/02 (Month)
+  EE227C Lec 20, 03/23 (Week)
+04/03
+  CS188A Lec 13, 03/06 (Month)
+  CS294 Lec 13, 03/06 (Month)
+04/04
+  EE227C Lec 15, 03/07 (Month)
+  CS188A Lec 19, 04/03 (Day)
+  CS294 Lec 19, 04/03 (Day)
+04/05
+  CS188A Lec 14, 03/08 (Month)
+  CS294 Lec 14, 03/08 (Month)
+  EE227C Lec 21, 04/04 (Day)
+04/06
+  EE227C Lec 16, 03/09 (Month)
+  CS188A Lec 20, 04/05 (Day)
+  CS294 Lec 20, 04/05 (Day)
+04/07
+  EE227C Lec 22, 04/06 (Day)
+04/10
+  CS188A Lec 15, 03/13 (Month)
+  CS294 Lec 15, 03/13 (Month)
+  CS188A Lec 19, 04/03 (Week)
+  CS294 Lec 19, 04/03 (Week)
+04/11
+  EE227C Lec 17, 03/14 (Month)
+  EE227C Lec 21, 04/04 (Week)
+  CS188A Lec 21, 04/10 (Day)
+  CS294 Lec 21, 04/10 (Day)
+04/12
+  CS188A Lec 16, 03/15 (Month)
+  CS294 Lec 16, 03/15 (Month)
+  CS188A Lec 20, 04/05 (Week)
+  CS294 Lec 20, 04/05 (Week)
+  EE227C Lec 23, 04/11 (Day)
+04/13
+  EE227C Lec 18, 03/16 (Month)
+  EE227C Lec 22, 04/06 (Week)
+  CS188A Lec 22, 04/12 (Day)
+  CS294 Lec 22, 04/12 (Day)
+04/14
+  EE227C Lec 24, 04/13 (Day)
+04/17
+  CS188A Lec 17, 03/20 (Month)
+  CS294 Lec 17, 03/20 (Month)
+  CS188A Lec 21, 04/10 (Week)
+  CS294 Lec 21, 04/10 (Week)
+04/18
+  EE227C Lec 19, 03/21 (Month)
+  EE227C Lec 23, 04/11 (Week)
+  CS188A Lec 23, 04/17 (Day)
+  CS294 Lec 23, 04/17 (Day)
+04/19
+  CS188A Lec 18, 03/22 (Month)
+  CS294 Lec 18, 03/22 (Month)
+  CS188A Lec 22, 04/12 (Week)
+  CS294 Lec 22, 04/12 (Week)
+  EE227C Lec 25, 04/18 (Day)
+04/20
+  EE227C Lec 20, 03/23 (Month)
+  EE227C Lec 24, 04/13 (Week)
+  CS188A Lec 24, 04/19 (Day)
+  CS294 Lec 24, 04/19 (Day)
+04/21
+  EE227C Lec 26, 04/20 (Day)
+04/24
+  CS188A Lec 23, 04/17 (Week)
+  CS294 Lec 23, 04/17 (Week)
+04/25
+  EE227C Lec 25, 04/18 (Week)
+  CS188A Lec 25, 04/24 (Day)
+  CS294 Lec 25, 04/24 (Day)
+04/26
+  CS188A Lec 24, 04/19 (Week)
+  CS294 Lec 24, 04/19 (Week)
+  EE227C Lec 27, 04/25 (Day)
+04/27
+  EE227C Lec 26, 04/20 (Week)
+  CS188A Lec 26, 04/26 (Day)
+  CS294 Lec 26, 04/26 (Day)
+04/28
+  EE227C Lec 28, 04/27 (Day)
+05/01
+  CS188A Lec 19, 04/03 (Month)
+  CS294 Lec 19, 04/03 (Month)
+  CS188A Lec 25, 04/24 (Week)
+  CS294 Lec 25, 04/24 (Week)
+05/02
+  EE227C Lec 21, 04/04 (Month)
+  EE227C Lec 27, 04/25 (Week)
+  CS188A Lec 27, 05/01 (Day)
+  CS294 Lec 27, 05/01 (Day)
+05/03
+  CS188A Lec 20, 04/05 (Month)
+  CS294 Lec 20, 04/05 (Month)
+  CS188A Lec 26, 04/26 (Week)
+  CS294 Lec 26, 04/26 (Week)
+  EE227C Lec 29, 05/02 (Day)
+05/04
+  EE227C Lec 22, 04/06 (Month)
+  EE227C Lec 28, 04/27 (Week)
+  CS188A Lec 28, 05/03 (Day)
+  CS294 Lec 28, 05/03 (Day)
+05/05
+  EE227C Lec 30, 05/04 (Day)
+05/08
+  CS188A Lec 21, 04/10 (Month)
+  CS294 Lec 21, 04/10 (Month)
+  CS188A Lec 27, 05/01 (Week)
+  CS294 Lec 27, 05/01 (Week)
+05/09
+  EE227C Lec 23, 04/11 (Month)
+  EE227C Lec 29, 05/02 (Week)
+05/10
+  CS188A Lec 22, 04/12 (Month)
+  CS294 Lec 22, 04/12 (Month)
+  CS188A Lec 28, 05/03 (Week)
+  CS294 Lec 28, 05/03 (Week)
+05/11
+  EE227C Lec 24, 04/13 (Month)
+  EE227C Lec 30, 05/04 (Week)
+05/15
+  CS188A Lec 23, 04/17 (Month)
+  CS294 Lec 23, 04/17 (Month)
+05/16
+  EE227C Lec 25, 04/18 (Month)
+05/17
+  CS188A Lec 24, 04/19 (Month)
+  CS294 Lec 24, 04/19 (Month)
+05/18
+  EE227C Lec 26, 04/20 (Month)
+05/22
+  CS188A Lec 25, 04/24 (Month)
+  CS294 Lec 25, 04/24 (Month)
+05/23
+  EE227C Lec 27, 04/25 (Month)
+05/24
+  CS188A Lec 26, 04/26 (Month)
+  CS294 Lec 26, 04/26 (Month)
+05/25
+  EE227C Lec 28, 04/27 (Month)
+05/29
+  CS188A Lec 27, 05/01 (Month)
+  CS294 Lec 27, 05/01 (Month)
+05/30
+  EE227C Lec 29, 05/02 (Month)
+05/31
+  CS188A Lec 28, 05/03 (Month)
+  CS294 Lec 28, 05/03 (Month)
+06/01
+  EE227C Lec 30, 05/04 (Month)
